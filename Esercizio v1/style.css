@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+}
+.header_logo{
+    background-color: #222F3E;
+}
+
+.header_logo img{
+    width: 80px;
+    padding: 10px;
+    margin-left: 25px;
+}
+
+nav{
+    background-color: #354758;
+    color: white;
+    font-size: small;
+    padding: 5px;
+    
+}
+
+/* .text_nav{
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+} non mi funziona usando la classe sullo span non so perchè*/
+
+span{
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+main{
+    background-color: #EAEDED;
+    padding: 20px;
+}
+
+.button{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.holiday{
+    background-color: #2F6E60;
+    margin-top: 20px;
+    text-align: center; 
+    padding: 50px;
+    margin-bottom: 20px;
+    color: white; 
+}
+
+#contenitore {
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-align: center; /* Centra il testo e le immagini */
+    
+}
+
+#contenitore h3 {
+    padding: 8px 0px;
+    text-align: left; /* Mantieni il titolo allineato a sinistra */
+    width: 100%; /* Occupa tutta la larghezza del contenitore */
+    
+}
+
+.img img {
+    width: 365px;
+    height: 450px;
+}
+
+.img {
+    padding-right: 10px;
+    display: inline-block;
+}
+
+#contenitore .img {
+    margin: 10px;
+    
+}
+
+h3 span{
+    color: #017185;
+    font-weight: bold;
+}
+
+.immagini{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    background-color: grey;
+    height: 400px;
+}
+
+.h3_centrato{
+    text-align: center;
+}
+
+.back{
+    text-align: center;
+    /* color: white; perche non lo colara di bianco? */
+    background-color: #354758 ;
+    padding: 25px;
+}
+
+.back a{
+    color: white;
+}
+
+.footer_logo{
+    background-color:#222F3E ;
+    text-align: center;
+    padding: 100px;
+}
+
+.footer_logo img{
+       width: 400px;
+}
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}

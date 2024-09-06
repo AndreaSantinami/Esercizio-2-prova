@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    background-color: #222F3E;
+    text-align: center;
+}
+
+.header_logo {
+    width: 80px;
+    padding: 10px;
+}
+
+.header {
+    text-align: left;
+}
+
+.footer_logo {
+    width: 150px;
+    padding: 50px;
+}
+
+.color_nav{
+    background-color: #354758;
+    color: white;
+    padding: 5px;
+}
+
+.color_nav span{
+    padding: 10px;
+    font-size: small;
+}
+
+a{
+    color: white;
+    
+}
+
+footer .color_nav{
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+}
+
+main{
+    background-color: #EAEDED;
+    padding: 25px;
+}
+
+main span{
+    padding-left: 15px;
+    color: #017185;
+    font-size: 15px;
+}
+
+#pulsante{
+    background-color: #F56600;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+
+#holiday{
+    margin: 25px 0;
+    background-image: url('assets/bg-image.png') ;
+    background-size: cover;
+    background-size: 100% 110%;
+    height: 128px;
+    color: white;
+    text-align: center;
+} 
+
+#holiday h1{
+    padding-top: 40px;
+    padding-bottom: 15px;
+
+}
+
+#holiday h4{
+    font-size: small;
+}
+
+#contenitore{
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+}
+
+#contenitore div{
+    text-align: left;
+    font-size: 18px;
+}
+
+
+#contenitore img{
+    width: 270px;
+    height: 330px;
+    margin: 15px;
+    border-radius: 25px;
+   box-shadow: 7px 5px 8px 3px rgba(34, 60, 80, 0.2)
+}
+
+#immagini_grandi img{
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    
+}
+
+#immagini_grandi{
+    text-align: center;
+    font-size: 18px;
+}
+
