@@ -2,7 +2,7 @@
     margin: 0;
 }
 
-main{
+.extra{
     background-color: #EBEDED;
     width: 100%;
     height: 600px;
@@ -21,7 +21,7 @@ h2{
     font-size: 25px;
 }
 
-.contenitore{
+.contenitore1{
     width: 385px;
     
     position: relative;
